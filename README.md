@@ -17,7 +17,7 @@ More plugins/modules will be added over time.
 
 ## Server
 
-🎮 Join Us: **162.33.20.233:9056**  
+🎮 Join **162.33.20.233:9056**  
 📡 Hosted by [BisectHosting](https://www.bisecthosting.com/counter-strike-source-server-hosting) — solid and reliable.
 
 ---
